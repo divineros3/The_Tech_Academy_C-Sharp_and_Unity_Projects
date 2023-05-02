@@ -1,0 +1,7 @@
+C:\Users\divin\source\repos\Daily Report Submission\Daily Report Submission\obj\Debug\Daily Report Submission.csproj.AssemblyReference.cache
+C:\Users\divin\source\repos\Daily Report Submission\Daily Report Submission\obj\Debug\Daily Report Submission.csproj.CoreCompileInputs.cache
+C:\Users\divin\source\repos\Daily Report Submission\Daily Report Submission\bin\Debug\Daily Report Submission.exe.config
+C:\Users\divin\source\repos\Daily Report Submission\Daily Report Submission\bin\Debug\Daily Report Submission.exe
+C:\Users\divin\source\repos\Daily Report Submission\Daily Report Submission\bin\Debug\Daily Report Submission.pdb
+C:\Users\divin\source\repos\Daily Report Submission\Daily Report Submission\obj\Debug\Daily Report Submission.exe
+C:\Users\divin\source\repos\Daily Report Submission\Daily Report Submission\obj\Debug\Daily Report Submission.pdb
