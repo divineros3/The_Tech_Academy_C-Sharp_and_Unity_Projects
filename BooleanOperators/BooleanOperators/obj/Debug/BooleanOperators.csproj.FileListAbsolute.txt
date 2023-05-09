@@ -1,0 +1,7 @@
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.exe.config
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.exe
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.pdb
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.csproj.AssemblyReference.cache
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.exe
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.pdb
