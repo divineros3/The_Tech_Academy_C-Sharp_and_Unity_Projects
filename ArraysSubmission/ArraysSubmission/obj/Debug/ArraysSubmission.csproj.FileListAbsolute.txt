@@ -1,0 +1,7 @@
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\ArraysSubmission\ArraysSubmission\obj\Debug\ArraysSubmission.csproj.AssemblyReference.cache
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\ArraysSubmission\ArraysSubmission\obj\Debug\ArraysSubmission.csproj.CoreCompileInputs.cache
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\ArraysSubmission\ArraysSubmission\bin\Debug\ArraysSubmission.exe.config
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\ArraysSubmission\ArraysSubmission\bin\Debug\ArraysSubmission.exe
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\ArraysSubmission\ArraysSubmission\bin\Debug\ArraysSubmission.pdb
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\ArraysSubmission\ArraysSubmission\obj\Debug\ArraysSubmission.exe
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\ArraysSubmission\ArraysSubmission\obj\Debug\ArraysSubmission.pdb
