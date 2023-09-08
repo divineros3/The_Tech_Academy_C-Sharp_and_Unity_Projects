@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ConsoleApp1
 {
@@ -6,15 +7,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            List<int> numbers = new List<int>() { 3, 7, 12 };
             try
             {
                 Console.WriteLine("Pick a number.");
                 int numberOne = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Pick a second number.");
-                int numberTwo = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Dividing the two...");
-                int numberThree = numberOne / numberTwo;
-                Console.WriteLine(numberOne + " divided by " + numberTwo + " equals " + numberThree);
+
+                foreach (int number in numbers)
+                {
+                    Console.WriteLine(number + " divided by " + numberOne + " equals " + number/numberOne);
+                }
+                
             }
             catch (FormatException ex)
             {
