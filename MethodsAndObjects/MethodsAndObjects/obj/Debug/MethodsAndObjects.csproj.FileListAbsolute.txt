@@ -1,0 +1,7 @@
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
