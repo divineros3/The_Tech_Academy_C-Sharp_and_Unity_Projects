@@ -6,45 +6,31 @@ using System.Threading.Tasks;
 
 namespace Operators
 {
-    public class Employee<T>
+    public class Employee
     {
-        public List<T> Things { get; set; }
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        //public override bool Equals(object obj)
-        //{
-        //    if (obj is Employee otherEmployee)
-        //    {
-        //        return Id == otherEmployee.Id;
-        //    }
-        //    return false;
-        //}
+        public static bool operator ==(Employee employee1, Employee employee2)
+        {
+            if (ReferenceEquals(employee1, employee2))
+            {
+                return true;
+            }
 
-        //public override int GetHashCode()
-        //{
-        //    return Id.GetHashCode();
-        //}
+            if (employee1 is null || employee2 is null)
+            {
+                return false;
+            }
 
-        //public static bool operator ==(Employee employee1, Employee employee2)
-        //{
-        //    if (ReferenceEquals(employee1, employee2))
-        //    {
-        //        return true;
-        //    }
+            return employee1.Id == employee2.Id;
+        }
 
-        //    if (employee1 is null || employee2 is null)
-        //    {
-        //        return false;
-        //    }
-
-        //    return employee1.Id == employee2.Id;
-        //}
-
-        //public static bool operator !=(Employee employee1, Employee employee2)
-        //{
-        //    return !(employee1 == employee2);
-        //}
+        public static bool operator !=(Employee employee1, Employee employee2)
+        {
+            return !(employee1 == employee2);
+        }
+          
     }
 }

@@ -10,27 +10,15 @@ namespace Operators
     {
         static void Main()
         {
-            Employee<string> stringEmployee = new Employee<string>
-            {
-                Things = new List<string> { "Apple", "Banana", "Cherry" }
-            };
+            Employee employee1 = new Employee { Id = 1, FirstName = "John", LastName = "Doe" };
+            Employee employee2 = new Employee { Id = 2, FirstName = "Jane", LastName = "Smith" };
+            Employee employee3 = new Employee { Id = 1, FirstName = "John", LastName = "Doe" };
 
-            Employee<int> intEmployee = new Employee<int>
-            {
-                Things = new List<int> { 1, 2, 3, 4, 5 }
-            };
+            bool areEqual1 = employee1 == employee2;
+            bool areEqual2 = employee1 == employee3;
 
-            Console.WriteLine("Things for stringEmployee:");
-            foreach (var item in stringEmployee.Things)
-            {
-                Console.WriteLine(item);
-            }
-
-            Console.WriteLine("\nThings for intEmployee:");
-            foreach (var item in intEmployee.Things)
-            {
-                Console.WriteLine(item);
-            }
+            Console.WriteLine("Are employee1 and employee2 equal? " + areEqual1);
+            Console.WriteLine("Are employee1 and employee3 equal? " + areEqual2);
 
             Console.ReadLine();
         }
