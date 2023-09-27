@@ -1,0 +1,7 @@
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\divin\OneDrive\Documents\GitHub\The_Tech_Academy_C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.pdb
